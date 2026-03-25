@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <h3 align="center">AI & ML Undergraduate | Data Science Enthusiast | Builder</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/heyAnantsingh">
+  <a href="https://www.linkedin.com/in/heyanantsingh">
     <img src="https://img.shields.io/badge/LinkedIn-Anant%20Singh-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=for-the-badge" />
 </p>
 
 ---
@@ -150,7 +149,7 @@ Volunteer
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/heyAnantsingh  
+- LinkedIn: https://www.linkedin.com/in/heyanantsingh  
 
 ---
 
