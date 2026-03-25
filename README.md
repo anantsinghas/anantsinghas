@@ -72,7 +72,7 @@ B.Tech in Computer Science (AI & ML)
 - Contributing to campus-wide cultural initiatives  
 - Coordinating events and student engagement  
 
-**ProgAnant Representative – CSE (AI & ML)**  
+**Programme Representative – CSE (AI & ML)**  
 📅 Aug 2025 – Present  
 - Acting as liaison between students and faculty  
 - Addressing academic and administrative concerns  
