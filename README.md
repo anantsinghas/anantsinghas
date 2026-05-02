@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**anantsinghas/anantsinghas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**heyanantsingh/heyanantsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -134,15 +134,15 @@ Volunteer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anantsinghas&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heyanantsingh&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anantsinghas&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyanantsingh&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantsinghas&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyanantsingh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
